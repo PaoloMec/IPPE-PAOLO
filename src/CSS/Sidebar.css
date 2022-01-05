@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+.box1{
+    display: flex;
+    justify-content: right;
+    
+}
+
+.box2{
+    display:flex;
+    justify-content: right;
+    background-color: #FFFFFF;
+    height: 100vh;
+    width: 301px;
+    padding: 21px 44px;
+    flex-direction: column;
+    
+} 
+
+.box3{
+    display: flex;
+    justify-content: right; 
+}
+
+.notifica{
+    width: 20.28px;
+    height: 21.35px;
+    margin-right: 31.72px;
+    margin-top: 5px;
+}
+
+.user{
+    width: 32px;
+    height: 32px;
+}
+
+
+.connessi{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'poppins';
+    margin-top: 43px;
+}
+
+.bordo-connessi{
+    border: solid 1px #6C5DD3;
+    height: 213px;
+    border-radius: 30px;
+    margin-bottom: 32px;
+    overflow-y: auto;
+    padding-left: 18px;
+}
+
+.bordo-connessi::-webkit-scrollbar{
+
+background-color: red;
+border-radius: 30px;
+width: 6px;
+
+
+
+}
+
+
+
+
+.icon-user-connessi{
+    width: 28px;
+    height: 28px;
+    border-radius: ;
+    border-color: #6C5DD3;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.assenti{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'poppins';
+}
+
+.bordo-assenti{
+    border: solid 1px #6C5DD3;
+    height: 213px;
+    border-radius: 30px;
+}
+
+
+

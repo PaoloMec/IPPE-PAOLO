@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+.reset{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins';
+}
+
+.logo{
+    margin-bottom: 30px;
+}
+
+.box-principale{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 553px;
+    height: 369px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+    padding: 44px;
+    box-shadow: 0px 4px 10px 0px #0000001A;
+}
+
+.resetta-password{
+    color: #171717; 
+    width: 443px;
+    height: 54px;
+    font-size: 36px;   
+    font-weight: 600;
+}
+
+.inserisci-mail{
+    text-align: center;
+    color: #7B7B7B;
+    width: 321px;
+    height: 27px;
+    font-size: 18px;
+    font-weight: 400; 
+}
+
+.input-inserisci-mail{
+    height: 61px;
+    width: 465px;
+    border-radius: 10px;
+    margin-top: 39px;
+    border-style: none;
+    border: 1px solid #DCDAE9
+}
+
+.input-inserisci-mail::placeholder{
+    font-size: 18px;
+    font-weight: 400;
+    color: #AFAFAF;
+}
+
+.button-invia-codice{
+    height: 61px;
+    width: 465px;
+    border-radius: 10px;
+    margin-top: 40px;
+    background-color: #6C5DD3;
+    border-style: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.torna-indietro{
+    font-size: 18px;
+    font-weight: 400;
+    color: #7B7B7B;
+    margin-top: 30px;
+}
+
+.return{
+    text-decoration: none;
+    font-weight: 600;
+    color: #6C5DD3;
+}
